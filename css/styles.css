@@ -1,0 +1,35 @@
+/* Estilos personalizados */
+h1 {
+    margin-bottom: 30px;
+}
+
+#cumResult {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.form-row {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn-block {
+    margin-bottom: 10px;
+}
